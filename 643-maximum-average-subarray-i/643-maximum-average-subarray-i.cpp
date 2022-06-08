@@ -9,15 +9,16 @@ public:
         double ma = INT_MIN;
         while(j<n)
         {
+            sum = sum+nums[j];
             if(j-i+1<k)
             {
-                sum = sum+nums[j];
+                
                 j++;
             }
             
             else if(j-i+1==k)
             {
-                sum=sum+nums[j];
+                
                 res = sum/k;
                 
                 
