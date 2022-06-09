@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int num_of_words(string s)
+    int num_of_words(string &s)
     {
         int ans = 0;
         for(auto i:s)
