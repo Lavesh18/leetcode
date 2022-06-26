@@ -61,7 +61,7 @@ string isSubset(int a1[], int a2[], int n, int m) {
             return "No";
             
     }
-    if(j<m)
-        return "No";
+    // if(j<m)
+    //     return "No";
     return "Yes";
 }
