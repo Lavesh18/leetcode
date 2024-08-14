@@ -3,26 +3,23 @@ class Solution {
    
     public boolean isSubsequence(String s, String t) {
        
-      int m = s.length();
-        int n = t.length();
-        int i=0, j=0;
-        while(i<m && j<n)
+       int tidx = 0;
+       int sidx = 0;
+
+       while(tidx < t.length() && sidx<s.length())
+       {
+        if(t.charAt(tidx) == s.charAt(sidx))
         {
-            if(s.charAt(i) == t.charAt(j))
-            {
-                i++;
-                j++;
-            }
-            else
-            {
-                j++;
-            }
+            tidx++;
+            sidx++;
         }
-        if(i == m)
+        else
         {
-            return true;
+        tidx++;
         }
-        return false;    
+       }
+
+       return sidx == s.length();
         
     }
 }
