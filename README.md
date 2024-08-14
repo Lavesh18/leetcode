@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lavesh18/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -24,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lavesh18/leetcode/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
