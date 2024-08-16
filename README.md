@@ -38,4 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Lavesh18/leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Lavesh18/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
