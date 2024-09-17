@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Lavesh18/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lavesh18/leetcode/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Lavesh18/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Lavesh18/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2107-find-unique-binary-string](https://github.com/Lavesh18/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
@@ -71,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Lavesh18/leetcode/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Lavesh18/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
