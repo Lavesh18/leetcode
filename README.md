@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lavesh18/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Lavesh18/leetcode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Lavesh18/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Lavesh18/leetcode/tree/master/0051-n-queens) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lavesh18/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Lavesh18/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Lavesh18/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Lavesh18/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Lavesh18/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lavesh18/leetcode/tree/master/0242-valid-anagram) |
