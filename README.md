@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lavesh18/leetcode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Lavesh18/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Lavesh18/leetcode/tree/master/0051-n-queens) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lavesh18/leetcode/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -100,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0190-reverse-bits](https://github.com/Lavesh18/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Lavesh18/leetcode/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Lavesh18/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
