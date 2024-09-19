@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Lavesh18/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Lavesh18/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Lavesh18/leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Lavesh18/leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +97,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Lavesh18/leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Lavesh18/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
