@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Lavesh18/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lavesh18/leetcode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Lavesh18/leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Lavesh18/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Lavesh18/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Lavesh18/leetcode/tree/master/0078-subsets) |
@@ -60,11 +61,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lavesh18/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lavesh18/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Lavesh18/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Lavesh18/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lavesh18/leetcode/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/Lavesh18/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
 ## Math
@@ -111,4 +114,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lavesh18/leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Lavesh18/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Lavesh18/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
