@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Lavesh18/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Lavesh18/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Lavesh18/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Lavesh18/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lavesh18/leetcode/tree/master/0242-valid-anagram) |
 | [2107-find-unique-binary-string](https://github.com/Lavesh18/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Lavesh18/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Lavesh18/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavesh18/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Lavesh18/leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/Lavesh18/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Lavesh18/leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Lavesh18/leetcode/tree/master/0202-happy-number) |
 | [2050-count-good-numbers](https://github.com/Lavesh18/leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
