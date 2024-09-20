@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Lavesh18/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Lavesh18/leetcode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Lavesh18/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Lavesh18/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lavesh18/leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Lavesh18/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Lavesh18/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Lavesh18/leetcode/tree/master/0066-plus-one) |
 | [2050-count-good-numbers](https://github.com/Lavesh18/leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
