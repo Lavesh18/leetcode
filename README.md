@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lavesh18/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lavesh18/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Lavesh18/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lavesh18/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Lavesh18/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lavesh18/leetcode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Lavesh18/leetcode/tree/master/0037-sudoku-solver) |
