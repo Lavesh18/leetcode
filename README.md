@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Lavesh18/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Lavesh18/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lavesh18/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Lavesh18/leetcode/tree/master/0383-ransom-note) |
 | [2107-find-unique-binary-string](https://github.com/Lavesh18/leetcode/tree/master/2107-find-unique-binary-string) |
 ## String
 |  |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Lavesh18/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Lavesh18/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Lavesh18/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
 | [2107-find-unique-binary-string](https://github.com/Lavesh18/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
@@ -190,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Lavesh18/leetcode/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Lavesh18/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
