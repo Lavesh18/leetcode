@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lavesh18/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Lavesh18/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lavesh18/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Lavesh18/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/Lavesh18/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Lavesh18/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Lavesh18/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Lavesh18/leetcode/tree/master/0202-happy-number) |
 | [2050-count-good-numbers](https://github.com/Lavesh18/leetcode/tree/master/2050-count-good-numbers) |
 ## Recursion
@@ -196,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Lavesh18/leetcode/tree/master/0383-ransom-note) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Lavesh18/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
