@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lavesh18/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Lavesh18/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Lavesh18/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Lavesh18/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Lavesh18/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Lavesh18/leetcode/tree/master/0383-ransom-note) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lavesh18/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Lavesh18/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lavesh18/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Lavesh18/leetcode/tree/master/0136-single-number) |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/Lavesh18/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Lavesh18/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Lavesh18/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Lavesh18/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Lavesh18/leetcode/tree/master/0202-happy-number) |
 | [2050-count-good-numbers](https://github.com/Lavesh18/leetcode/tree/master/2050-count-good-numbers) |
@@ -210,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lavesh18/leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Lavesh18/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
