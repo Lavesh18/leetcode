@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Lavesh18/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Lavesh18/leetcode/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/Lavesh18/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Lavesh18/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Lavesh18/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lavesh18/leetcode/tree/master/0090-subsets-ii) |
