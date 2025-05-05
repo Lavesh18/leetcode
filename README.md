@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lavesh18/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Lavesh18/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Lavesh18/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Lavesh18/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Lavesh18/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Lavesh18/leetcode/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Lavesh18/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Lavesh18/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Lavesh18/leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Lavesh18/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Lavesh18/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Lavesh18/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Lavesh18/leetcode/tree/master/0383-ransom-note) |
@@ -247,4 +249,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lavesh18/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Lavesh18/leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
