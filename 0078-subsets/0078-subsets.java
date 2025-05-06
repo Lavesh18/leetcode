@@ -11,7 +11,7 @@ class Solution {
         int curr = nums[idx];
         out.add(curr);
         getSubsets(nums,idx+1,ans,out); //accept
-        out.remove(out.size() - 1); // backtracking
+        out.remove(out.size() - 1); // backtrackingout.remove(out.size() - 1); // backtracking
         getSubsets(nums,idx+1,ans,out); // not acccept
 
     }
