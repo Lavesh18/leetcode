@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Lavesh18/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Lavesh18/leetcode/tree/master/0131-palindrome-partitioning) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Lavesh18/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Lavesh18/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Lavesh18/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Lavesh18/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Array
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Lavesh18/leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Lavesh18/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Lavesh18/leetcode/tree/master/0792-binary-search) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Lavesh18/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Lavesh18/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Lavesh18/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
