@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Lavesh18/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Lavesh18/leetcode/tree/master/0409-longest-palindrome) |
 | [2107-find-unique-binary-string](https://github.com/Lavesh18/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Lavesh18/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Lavesh18/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Lavesh18/leetcode/tree/master/0131-palindrome-partitioning) |
 | [2107-find-unique-binary-string](https://github.com/Lavesh18/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Lavesh18/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Lavesh18/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Lavesh18/leetcode/tree/master/0792-binary-search) |
 | [2107-find-unique-binary-string](https://github.com/Lavesh18/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Lavesh18/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Lavesh18/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Lavesh18/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Lavesh18/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lavesh18/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Lavesh18/leetcode/tree/master/0202-happy-number) |
 | [2050-count-good-numbers](https://github.com/Lavesh18/leetcode/tree/master/2050-count-good-numbers) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Lavesh18/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Lavesh18/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lavesh18/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lavesh18/leetcode/tree/master/0242-valid-anagram) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Lavesh18/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -253,4 +259,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lavesh18/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Lavesh18/leetcode/tree/master/0076-minimum-window-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/Lavesh18/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
