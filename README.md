@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Lavesh18/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Lavesh18/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Lavesh18/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Lavesh18/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Lavesh18/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Lavesh18/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Lavesh18/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Lavesh18/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Lavesh18/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Lavesh18/leetcode/tree/master/0131-palindrome-partitioning) |
 | [2107-find-unique-binary-string](https://github.com/Lavesh18/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Array
 |  |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Lavesh18/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Lavesh18/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lavesh18/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Lavesh18/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Lavesh18/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Lavesh18/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lavesh18/leetcode/tree/master/0392-is-subsequence) |
