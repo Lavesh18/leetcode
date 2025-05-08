@@ -214,12 +214,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Lavesh18/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lavesh18/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Lavesh18/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lavesh18/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -227,12 +229,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Lavesh18/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Lavesh18/leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Lavesh18/leetcode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Lavesh18/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lavesh18/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
