@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lavesh18/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/Lavesh18/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lavesh18/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/Lavesh18/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0733-flood-fill](https://github.com/Lavesh18/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Lavesh18/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Lavesh18/leetcode/tree/master/0322-coin-change) |
+| [0513-find-bottom-left-tree-value](https://github.com/Lavesh18/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0733-flood-fill](https://github.com/Lavesh18/leetcode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Lavesh18/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lavesh18/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/Lavesh18/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
 |  |
 | ------- |
